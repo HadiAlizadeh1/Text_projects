@@ -1,6 +1,6 @@
-# In the name of Allah
+[http://url/to/img.png](https://rasa.com/static/facebook-og-dc4e1962b0a58c63cd387fcea00d2225.png)
 
-# Task-006 
+Rasa provides flexible conversational AI software for building text and voice-based assistants
 
 This task is about creating rasa chat bot for Englisg and Persian(Farsi) languages.
 
